@@ -1,7 +1,7 @@
 Custom Basemaps In AGOL
 =======================
 
-This is an updated "How To" originally posted in October 2013 on ['jonah's maps'](http://jonahsmaps.Tumblr.Com/post/63650958094/customized-basemaps-and-layers-in-arcgis-online)
+This is an updated "How To" originally posted in October 2013 on ['jonah's maps'](http://jonahsmaps.Tumblr.Com/post/63650958094/customized-basemaps-and-layers-in-arcgis-online). You can find [this post there](http://jonahsmaps.tumblr.com/post/76965422066/this-is-an-updated-how-to-originally-posted-in) as well.
 
 Let’s say you’re asked to help with the cartography of a story map, or you want to create some web maps that just stand out. The current offering of basemaps within ArcGIS Online are ‘ok’, some are more of a complete map than others - so it’s hard to control the visual hierarchy of your layers - there’s that weird sandwich layer thing where if you don’t add a second layer of labels for places and such any data you add will cover the labels burned into the basemap. (Some of the basemaps do this for you, some don’t) Basically, it’s like putting the [mayo on top](http://bit.ly/GOe8Yi) of your sandwich. There have been some previous posts on using [outside basemaps](http://blogs.esri.com/esri/arcgis/2013/04/01/using-stamen-and-mapbox-tilesets-as-basemaps-in-arcgis-com/) and changing the [predefined basemap colors](http://mappingcenter.esri.com/index.cfm?fa=ask.answers&q=2163), which helped me get started, but I wanted to expand on that topic a little more. 
 
