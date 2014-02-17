@@ -38,6 +38,7 @@ I was able to create some truly unique map layers - a dark blue filter over sate
 + Login to your ArcGIS Online account and open a new or existing web map. Add > Add Layer from Web > A Tile Layer
 
 ![alt text](http://media.tumblr.com/ecd93c17bb55aa1d5b2f5ec458e73dcd/tumblr_inline_muglf7diQF1qb1e5d.jpg)
+
 + In another browser tab, you’ll want to have your map of choice open in it’s web map form. Depending on your browser you can use the ‘Inspect Element’ feature or you can right-click ‘Open Image In New Tab’ to get the URL for the tile layer you are using. Here is an example of an image tile URL from the Stamen watercolor service:
 
 `(http://d.tile.stamen.com/watercolor/12/654/1583.jpg)`
